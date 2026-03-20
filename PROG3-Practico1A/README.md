@@ -1,4 +1,4 @@
-## **Práctico n°1A:** Interacció entre objetos.
+## **Práctico n°1A:** Interacción entre objetos.
 
 Esta primera parte del trabajo práctico n°1 profundiza en la Interacción entre Objetos y el diseño de sistemas complejos, poniendo especial énfasis en la responsabilidad de cada clase para procesar datos y en la implementación de algoritmos recursivos sobre estructuras de asociación.
 
